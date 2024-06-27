@@ -1,0 +1,1 @@
+//  var has no cancept of scope thats why let comes in picture 
