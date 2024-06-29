@@ -10,3 +10,7 @@ console.log(id==is);
 
 const bigint=12136655655556554n;
 console.log(bigint);
+
+
+//  memaory stack and heep 
+// stack (premitive ),  heep (non-prmitive )
